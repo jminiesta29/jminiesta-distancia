@@ -14,6 +14,9 @@ public class Proyecto1 {
     public static void main(String[] args) {
        
        // Voy a actualizar en github
+        // Ahora lo he actualizado en Github y creo e inicializo una variable
+
+        int a = 0;
         
     }
 }
